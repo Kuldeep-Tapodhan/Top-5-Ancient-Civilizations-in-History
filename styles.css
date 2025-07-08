@@ -89,6 +89,7 @@ nav ul{
     line-height: 1.8;
     margin-top: 10px;
     font-family: 'Roboto', sans-serif;
+    text-align: justify;
 }
 
 .details {
@@ -97,6 +98,7 @@ nav ul{
     margin-top: 15px;
     font-family: 'Roboto', sans-serif;
     font-size: 1rem;
+    text-align: justify;
 }
 
 .details li {
